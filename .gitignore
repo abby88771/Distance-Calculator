@@ -1,0 +1,10 @@
+# vim swp
+*.swp
+
+# log and exec file
+/build/
+/bin/
+/lib/
+
+# vscode
+.vscode
